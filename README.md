@@ -1,2 +1,2 @@
 # Meus exercicios
- Lista de exercícios feitos durando os cursos de Javacript
+ Lista de exercícios feitos durando os cursos de JavaScript.
