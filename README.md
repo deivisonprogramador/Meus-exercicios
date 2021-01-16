@@ -1,2 +1,2 @@
-# Meus exercicios
- Lista de exercícios feitos durando os cursos de JavaScript.
+# Meus-exercicios
+ Repositório para postar meus exercicios concluidos
